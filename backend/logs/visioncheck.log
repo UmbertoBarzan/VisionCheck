@@ -1,0 +1,675 @@
+[2025-07-18 15:41:23] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 15:41:23] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 15:41:45] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 15:41:53] [INFO] ✅ Serving index.html
+[2025-07-18 15:41:53] [WARNING] ⚠️  Questa è una simulazione di warning
+[2025-07-18 15:41:53] [ERROR] 🚫 Simulazione di errore
+[2025-07-18 16:29:08] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 16:29:08] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 16:29:10] [INFO] ✅ Serving index.html
+[2025-07-18 16:29:17] [ERROR] ❌ Failed to capture or save image
+[2025-07-18 16:31:15] [INFO] ✅ Serving index.html
+[2025-07-18 16:31:23] [INFO] ✅ Serving index.html
+[2025-07-18 16:31:26] [ERROR] ❌ Failed to capture or save image
+[2025-07-18 16:35:04] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 16:35:38] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 16:35:52] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 16:35:54] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 16:36:03] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 16:36:03] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 16:36:07] [INFO] ✅ Serving index.html
+[2025-07-18 16:36:09] [INFO] 📷 Snapshot pronto, invio al frontend.
+[2025-07-18 16:46:15] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 16:46:16] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 16:46:19] [INFO] ✅ Serving index.html
+[2025-07-18 16:46:23] [INFO] 📷 Snapshot pronto, invio al frontend.
+[2025-07-18 17:18:01] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 17:18:02] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 17:18:04] [INFO] ✅ Serving index.html
+[2025-07-18 17:18:21] [INFO] 📷 Snapshot pronto, invio al frontend.
+[2025-07-18 17:18:26] [ERROR] ❌ Errore durante la predizione YOLO.
+[2025-07-18 17:20:11] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 17:23:50] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 17:23:52] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 17:23:54] [INFO] ✅ Serving index.html
+[2025-07-18 17:25:16] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 17:25:17] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 17:25:18] [INFO] ✅ Serving index.html
+[2025-07-18 17:25:30] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 17:25:32] [INFO] ✅ Serving index.html
+[2025-07-18 17:25:33] [ERROR] ❌ Errore durante la predizione YOLO.
+[2025-07-18 17:26:18] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 17:26:30] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 17:26:42] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 17:26:58] [INFO] ✅ Serving index.html
+[2025-07-18 17:27:02] [INFO] ✅ YOLO snapshot pronto, invio al frontend.
+[2025-07-18 17:28:36] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 17:28:37] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 17:28:39] [INFO] ✅ Serving index.html
+[2025-07-18 17:28:42] [INFO] ✅ YOLO snapshot pronto, invio al frontend.
+[2025-07-18 17:29:48] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 17:29:50] [INFO] ✅ Serving index.html
+[2025-07-18 17:29:53] [INFO] ✅ YOLO snapshot pronto, invio al frontend.
+[2025-07-18 17:30:26] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 17:30:29] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 18:01:20] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 18:01:22] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-18 18:01:24] [INFO] ✅ Serving index.html
+[2025-07-18 18:01:31] [ERROR] ❌ Errore durante la segmentazione SAM.
+[2025-07-18 18:01:35] [ERROR] ❌ Errore durante la segmentazione SAM.
+[2025-07-18 18:01:38] [ERROR] ❌ Errore durante la predizione YOLO.
+[2025-07-21 09:53:15] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 09:53:17] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 09:53:17] [INFO] ✅ Serving index.html
+[2025-07-21 09:53:23] [ERROR] ❌ Errore durante la predizione YOLO.
+[2025-07-21 09:53:23] [ERROR] ❌ Errore durante la predizione YOLO.
+[2025-07-21 09:55:49] [ERROR] ❌ Errore durante la predizione YOLO.
+[2025-07-21 09:56:31] [ERROR] ❌ Errore durante la segmentazione SAM.
+[2025-07-21 10:01:55] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:02:00] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:02:03] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:02:21] [ERROR] ❌ Errore durante la predizione YOLO.
+[2025-07-21 10:05:06] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:08:34] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:08:50] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:10:59] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:11:03] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:14:26] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:14:34] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:14:36] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:14:41] [ERROR] ❌ Errore durante la predizione YOLO.
+[2025-07-21 10:15:57] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:16:23] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:17:21] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:17:25] [INFO] ✅ YOLO snapshot pronto, invio al frontend.
+[2025-07-21 10:20:38] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:20:42] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:22:26] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:22:33] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:22:35] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:23:07] [ERROR] ❌ Errore durante la segmentazione SAM.
+[2025-07-21 10:23:24] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:24:36] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:25:06] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:25:08] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:29:47] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:29:49] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:33:26] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:33:29] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:33:30] [WARNING] asdasd
+[2025-07-21 10:33:54] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:33:56] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:33:58] [WARNING] asdasd
+[2025-07-21 10:34:12] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:34:14] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:34:38] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:34:40] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:34:42] [WARNING] asdasd
+[2025-07-21 10:35:30] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:35:32] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:35:47] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:35:49] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:36:10] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:36:13] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:36:37] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:36:39] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:36:54] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:36:56] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:39:19] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:39:21] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:41:09] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:41:12] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:48:35] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:48:37] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:49:07] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:49:09] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:53:26] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:53:28] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 10:54:01] [INFO] ✅ SAM snapshot pronto, invio al frontend.
+[2025-07-21 11:09:40] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 11:09:43] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-21 11:09:43] [INFO] ✅ Serving index.html
+[2025-07-21 11:09:43] [INFO] ✅ Serving index.html
+[2025-07-21 11:10:19] [INFO] ✅ SAM snapshot pronto, invio al frontend.
+[2025-07-21 11:10:46] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 10:23:49] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 10:23:55] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 10:25:20] [INFO] ✅ Serving index.html
+[2025-07-22 10:35:56] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 10:36:01] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 10:36:15] [INFO] ✅ YOLO snapshot pronto, invio al frontend.
+[2025-07-22 10:36:24] [INFO] ✅ Serving index.html
+[2025-07-22 10:37:56] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 10:38:00] [ERROR] ❌ Errore Anomalib:
+Traceback (most recent call last):
+  File "/home/umberto/Desktop/visioncheck/backend/app.py", line 82, in anomalib_snapshot
+    prediction_path = run_anomalib(image_path)
+  File "/home/umberto/Desktop/visioncheck/backend/anomalib_runner.py", line 135, in run_anomalib
+    engine.test(
+TypeError: Engine.test() got an unexpected keyword argument 'checkpoint_path'
+[2025-07-22 10:40:31] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 10:41:05] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 10:43:25] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 10:43:35] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 10:43:40] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 10:43:40] [INFO] ✅ Serving index.html
+[2025-07-22 10:43:45] [ERROR] ❌ Errore Anomalib:
+Traceback (most recent call last):
+  File "/home/umberto/Desktop/visioncheck/backend/app.py", line 82, in anomalib_snapshot
+    prediction_path = run_anomalib(image_path)
+  File "/home/umberto/Desktop/visioncheck/backend/anomalib_runner.py", line 135, in run_anomalib
+    engine.test(
+TypeError: Engine.test() got an unexpected keyword argument 'predict__image'
+[2025-07-22 10:49:24] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 10:49:28] [ERROR] ❌ Errore Anomalib:
+Traceback (most recent call last):
+  File "/home/umberto/Desktop/visioncheck/backend/app.py", line 82, in anomalib_snapshot
+    prediction_path = run_anomalib(image_path)
+  File "/home/umberto/Desktop/visioncheck/backend/anomalib_runner.py", line 135, in run_anomalib
+    engine.test(
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/engine/engine.py", line 547, in test
+    self._setup_workspace(model=model or self.model, datamodule=datamodule, test_dataloaders=dataloaders)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/engine/engine.py", line 275, in _setup_workspace
+    category = datamodule.category
+AttributeError: 'PosixPath' object has no attribute 'category'
+[2025-07-22 10:50:00] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 10:52:13] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 10:59:27] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 12:11:29] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 12:11:34] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 12:11:46] [INFO] ✅ Serving index.html
+[2025-07-22 12:11:49] [INFO] ✅ Serving index.html
+[2025-07-22 12:12:19] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 12:12:30] [INFO] ✅ Serving index.html
+[2025-07-22 12:12:38] [INFO] ✅ YOLO snapshot pronto, invio al frontend.
+[2025-07-22 12:12:42] [INFO] ✅ Serving index.html
+[2025-07-22 12:12:48] [ERROR] ❌ Errore Anomalib:
+Traceback (most recent call last):
+  File "/home/umberto/Desktop/visioncheck/backend/app.py", line 82, in anomalib_snapshot
+    prediction_path = run_anomalib(image_path)
+  File "/home/umberto/Desktop/visioncheck/backend/anomalib_runner.py", line 150, in run_anomalib
+    engine.load_from_checkpoint(checkpoint_path=str(ckpt), model=model)
+AttributeError: 'Engine' object has no attribute 'load_from_checkpoint'
+[2025-07-22 12:24:09] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 12:24:52] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 12:24:57] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 12:24:57] [INFO] ✅ Serving index.html
+[2025-07-22 12:25:13] [ERROR] ❌ Errore Anomalib:
+Traceback (most recent call last):
+  File "/home/umberto/Desktop/visioncheck/backend/app.py", line 82, in anomalib_snapshot
+    prediction_path = run_anomalib(image_path)
+  File "/home/umberto/Desktop/visioncheck/backend/anomalib_runner.py", line 155, in run_anomalib
+    predictions = engine.predict(model=model, dataloaders=dataloader)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/engine/engine.py", line 667, in predict
+    return self.trainer.predict(model, dataloaders, datamodule, return_predictions, ckpt_path)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/trainer/trainer.py", line 887, in predict
+    return call._call_and_handle_interrupt(
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/trainer/call.py", line 48, in _call_and_handle_interrupt
+    return trainer_fn(*args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/trainer/trainer.py", line 928, in _predict_impl
+    results = self._run(model, ckpt_path=ckpt_path)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/trainer/trainer.py", line 1012, in _run
+    results = self._run_stage()
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/trainer/trainer.py", line 1051, in _run_stage
+    return self.predict_loop.run()
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/loops/utilities.py", line 179, in _decorator
+    return loop_run(self, *args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/loops/prediction_loop.py", line 125, in run
+    self._predict_step(batch, batch_idx, dataloader_idx, dataloader_iter)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/loops/prediction_loop.py", line 244, in _predict_step
+    call._call_callback_hooks(trainer, "on_predict_batch_start", *hook_kwargs.values())
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/trainer/call.py", line 227, in _call_callback_hooks
+    fn(trainer, trainer.lightning_module, *args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/pre_processing/pre_processor.py", line 129, in on_predict_batch_start
+    batch.image, batch.gt_mask = self.transform(batch.image, batch.gt_mask)
+AttributeError: 'dict' object has no attribute 'image'
+[2025-07-22 12:30:16] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 12:30:32] [INFO] ✅ Serving index.html
+[2025-07-22 12:30:35] [ERROR] ❌ Errore Anomalib:
+Traceback (most recent call last):
+  File "/home/umberto/Desktop/visioncheck/backend/app.py", line 82, in anomalib_snapshot
+    prediction_path = run_anomalib(image_path)
+  File "/home/umberto/Desktop/visioncheck/backend/anomalib_runner.py", line 161, in run_anomalib
+    predictions = engine.predict(model=model, dataloaders=dataloader)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/engine/engine.py", line 667, in predict
+    return self.trainer.predict(model, dataloaders, datamodule, return_predictions, ckpt_path)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/trainer/trainer.py", line 887, in predict
+    return call._call_and_handle_interrupt(
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/trainer/call.py", line 48, in _call_and_handle_interrupt
+    return trainer_fn(*args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/trainer/trainer.py", line 928, in _predict_impl
+    results = self._run(model, ckpt_path=ckpt_path)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/trainer/trainer.py", line 1012, in _run
+    results = self._run_stage()
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/trainer/trainer.py", line 1051, in _run_stage
+    return self.predict_loop.run()
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/loops/utilities.py", line 179, in _decorator
+    return loop_run(self, *args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/loops/prediction_loop.py", line 122, in run
+    batch, batch_idx, dataloader_idx = next(data_fetcher)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/loops/fetchers.py", line 134, in __next__
+    batch = super().__next__()
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/loops/fetchers.py", line 61, in __next__
+    batch = next(self.iterator)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/utilities/combined_loader.py", line 341, in __next__
+    out = next(self._iterator)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/utilities/combined_loader.py", line 142, in __next__
+    out = next(self.iterators[0])
+  File "/home/umberto/.local/lib/python3.10/site-packages/torch/utils/data/dataloader.py", line 733, in __next__
+    data = self._next_data()
+  File "/home/umberto/.local/lib/python3.10/site-packages/torch/utils/data/dataloader.py", line 789, in _next_data
+    data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+  File "/home/umberto/.local/lib/python3.10/site-packages/torch/utils/data/_utils/fetch.py", line 55, in fetch
+    return self.collate_fn(data)
+  File "/home/umberto/.local/lib/python3.10/site-packages/torch/utils/data/_utils/collate.py", line 398, in default_collate
+    return collate(batch, collate_fn_map=default_collate_fn_map)
+  File "/home/umberto/.local/lib/python3.10/site-packages/torch/utils/data/_utils/collate.py", line 240, in collate
+    raise TypeError(default_collate_err_msg_format.format(elem_type))
+TypeError: default_collate: batch must contain tensors, numpy arrays, numbers, dicts or lists; found <class 'anomalib_runner.ImageSample'>
+[2025-07-22 12:33:13] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 12:33:27] [INFO] ✅ Serving index.html
+[2025-07-22 12:33:32] [ERROR] ❌ Errore Anomalib:
+Traceback (most recent call last):
+  File "/home/umberto/Desktop/visioncheck/backend/app.py", line 82, in anomalib_snapshot
+    prediction_path = run_anomalib(image_path)
+  File "/home/umberto/Desktop/visioncheck/backend/anomalib_runner.py", line 158, in run_anomalib
+    predictions = engine.predict(model=model, dataloaders=dataloader)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/engine/engine.py", line 667, in predict
+    return self.trainer.predict(model, dataloaders, datamodule, return_predictions, ckpt_path)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/trainer/trainer.py", line 887, in predict
+    return call._call_and_handle_interrupt(
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/trainer/call.py", line 48, in _call_and_handle_interrupt
+    return trainer_fn(*args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/trainer/trainer.py", line 928, in _predict_impl
+    results = self._run(model, ckpt_path=ckpt_path)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/trainer/trainer.py", line 1012, in _run
+    results = self._run_stage()
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/trainer/trainer.py", line 1051, in _run_stage
+    return self.predict_loop.run()
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/loops/utilities.py", line 179, in _decorator
+    return loop_run(self, *args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/loops/prediction_loop.py", line 122, in run
+    batch, batch_idx, dataloader_idx = next(data_fetcher)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/loops/fetchers.py", line 134, in __next__
+    batch = super().__next__()
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/loops/fetchers.py", line 61, in __next__
+    batch = next(self.iterator)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/utilities/combined_loader.py", line 341, in __next__
+    out = next(self._iterator)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/utilities/combined_loader.py", line 142, in __next__
+    out = next(self.iterators[0])
+  File "/home/umberto/.local/lib/python3.10/site-packages/torch/utils/data/dataloader.py", line 733, in __next__
+    data = self._next_data()
+  File "/home/umberto/.local/lib/python3.10/site-packages/torch/utils/data/dataloader.py", line 789, in _next_data
+    data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+  File "/home/umberto/.local/lib/python3.10/site-packages/torch/utils/data/_utils/fetch.py", line 55, in fetch
+    return self.collate_fn(data)
+  File "/home/umberto/.local/lib/python3.10/site-packages/torch/utils/data/_utils/collate.py", line 398, in default_collate
+    return collate(batch, collate_fn_map=default_collate_fn_map)
+  File "/home/umberto/.local/lib/python3.10/site-packages/torch/utils/data/_utils/collate.py", line 240, in collate
+    raise TypeError(default_collate_err_msg_format.format(elem_type))
+TypeError: default_collate: batch must contain tensors, numpy arrays, numbers, dicts or lists; found <class 'types.SimpleNamespace'>
+[2025-07-22 12:43:03] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 12:43:08] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 12:43:13] [INFO] ✅ Serving index.html
+[2025-07-22 12:43:17] [ERROR] ❌ Errore Anomalib:
+Traceback (most recent call last):
+  File "/home/umberto/Desktop/visioncheck/backend/app.py", line 82, in anomalib_snapshot
+    prediction_path = run_anomalib(image_path)
+  File "/home/umberto/Desktop/visioncheck/backend/anomalib_runner.py", line 149, in run_anomalib
+    datamodule.setup()
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/data/datamodules/base/image.py", line 150, in setup
+    self._setup(stage)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/data/datamodules/image/folder.py", line 165, in _setup
+    self.train_data = FolderDataset(
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/data/datasets/image/folder.py", line 112, in __init__
+    self.samples = make_folder_dataset(
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/data/datasets/image/folder.py", line 204, in make_folder_dataset
+    abnormal_dir = _resolve_path_and_convert_to_list(abnormal_dir)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/data/datasets/image/folder.py", line 200, in _resolve_path_and_convert_to_list
+    return [validate_and_resolve_path(path, root)] if path is not None else []
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/data/utils/path.py", line 277, in validate_and_resolve_path
+    return validate_path(resolve_path(folder, root), base_dir)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/data/utils/path.py", line 242, in validate_path
+    raise FileNotFoundError(msg)
+FileNotFoundError: Path does not exist: /home/umberto/Desktop/visioncheck/data/anomalib_test/crack
+[2025-07-22 14:36:58] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 14:37:04] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 14:37:04] [INFO] ✅ Serving index.html
+[2025-07-22 14:37:07] [ERROR] ❌ Errore Anomalib:
+Traceback (most recent call last):
+  File "/home/umberto/Desktop/visioncheck/backend/app.py", line 82, in anomalib_snapshot
+    prediction_path = run_anomalib(image_path)
+  File "/home/umberto/Desktop/visioncheck/backend/anomalib_runner.py", line 155, in run_anomalib
+    anomaly_map = output.anomaly_maps[0, 0].cpu().numpy()
+AttributeError: 'InferenceBatch' object has no attribute 'anomaly_maps'. Did you mean: 'anomaly_map'?
+[2025-07-22 14:40:20] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 14:41:21] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 14:41:27] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 14:41:27] [INFO] ✅ Serving index.html
+[2025-07-22 14:41:30] [ERROR] ❌ Errore Anomalib:
+Traceback (most recent call last):
+  File "/home/umberto/Desktop/visioncheck/backend/app.py", line 82, in anomalib_snapshot
+    prediction_path = run_anomalib(image_path)
+  File "/home/umberto/Desktop/visioncheck/backend/anomalib_runner.py", line 128, in run_anomalib
+    model = Padim.load_from_checkpoint(ckpt_path='/home/umberto/Desktop/visioncheck/results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt')
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/utilities/model_helpers.py", line 125, in wrapper
+    return self.method(cls, *args, **kwargs)
+TypeError: LightningModule.load_from_checkpoint() missing 1 required positional argument: 'checkpoint_path'
+[2025-07-22 14:42:19] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 14:42:21] [ERROR] ❌ Errore Anomalib:
+Traceback (most recent call last):
+  File "/home/umberto/Desktop/visioncheck/backend/app.py", line 82, in anomalib_snapshot
+    prediction_path = run_anomalib(image_path)
+  File "/home/umberto/Desktop/visioncheck/backend/anomalib_runner.py", line 155, in run_anomalib
+    anomaly_map = output.anomaly_maps[0, 0].cpu().numpy()
+AttributeError: 'InferenceBatch' object has no attribute 'anomaly_maps'. Did you mean: 'anomaly_map'?
+[2025-07-22 14:44:02] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 14:44:10] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 14:45:45] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 14:45:50] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 14:45:50] [INFO] ✅ Serving index.html
+[2025-07-22 14:45:54] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 14:46:45] [INFO] ✅ YOLO snapshot pronto, invio al frontend.
+[2025-07-22 14:47:01] [INFO] ✅ SAM snapshot pronto, invio al frontend.
+[2025-07-22 15:21:36] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 15:47:56] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 15:48:02] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 15:48:02] [INFO] ✅ Serving index.html
+[2025-07-22 15:48:06] [INFO] ✅ YOLO snapshot pronto, invio al frontend.
+[2025-07-22 15:48:25] [INFO] ✅ Serving index.html
+[2025-07-22 16:03:24] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 16:03:29] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 16:03:32] [INFO] ✅ Serving index.html
+[2025-07-22 16:03:37] [ERROR] ❌ Errore Anomalib:
+Traceback (most recent call last):
+  File "/home/umberto/Desktop/visioncheck/backend/app.py", line 82, in anomalib_snapshot
+    prediction_path = run_anomalib(image_path)
+  File "/home/umberto/Desktop/visioncheck/backend/anomalib_runner.py", line 154, in run_anomalib
+    ckpt_path = get_latest_ckpt_path(model_entry["model"], "hazelnut_toy")
+NameError: name 'model_entry' is not defined
+[2025-07-22 16:04:37] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 16:05:24] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 16:05:30] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 16:05:30] [INFO] ✅ Serving index.html
+[2025-07-22 16:05:34] [ERROR] ❌ Errore Anomalib:
+Traceback (most recent call last):
+  File "/home/umberto/Desktop/visioncheck/backend/app.py", line 84, in anomalib_snapshot
+    if prediction_path is None or not prediction_path.exists():
+AttributeError: 'list' object has no attribute 'exists'
+[2025-07-22 16:12:56] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 16:20:12] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 16:20:17] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 16:20:17] [INFO] ✅ Serving index.html
+[2025-07-22 16:20:26] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 16:24:10] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 16:24:16] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 16:24:16] [INFO] ✅ Serving index.html
+[2025-07-22 16:24:28] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 16:28:05] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 16:28:07] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 16:28:54] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 16:33:57] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 16:34:18] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 16:34:48] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 16:35:09] [INFO] ✅ SAM snapshot pronto, invio al frontend.
+[2025-07-22 16:35:15] [INFO] ✅ Serving index.html
+[2025-07-22 16:35:32] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 16:41:45] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 16:41:45] [INFO] ✅ Serving index.html
+[2025-07-22 16:41:56] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 16:42:33] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 16:57:02] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 17:00:18] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 17:00:21] [ERROR] ❌ Errore Anomalib:
+Traceback (most recent call last):
+  File "/home/umberto/Desktop/visioncheck/backend/app.py", line 82, in anomalib_snapshot
+    prediction_path = run_anomalib(image_path)
+  File "/home/umberto/Desktop/visioncheck/backend/anomalib_runner.py", line 200, in run_anomalib
+    overlay = patchcore_style_overlay(anomaly_map, image_cv)
+  File "/home/umberto/Desktop/visioncheck/backend/anomalib_runner.py", line 135, in patchcore_style_overlay
+    overlay = cv2.addWeighted(image_rgb, 0.4, heatmap_rgb, 0.6, 0)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/core/src/arithm.cpp:662: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and the same number of channels), nor 'array op scalar', nor 'scalar op array' in function 'arithm_op'
+
+[2025-07-22 17:00:46] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 17:00:48] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:01:01] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:03:53] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 17:03:54] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:04:00] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:04:03] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:05:47] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 17:05:48] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:05:54] [INFO] ✅ Serving index.html
+[2025-07-22 17:07:47] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 17:07:51] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:07:59] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:08:03] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:08:06] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:08:08] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:08:10] [INFO] ✅ YOLO snapshot pronto, invio al frontend.
+[2025-07-22 17:08:31] [INFO] ✅ Serving index.html
+[2025-07-22 17:10:02] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 17:10:09] [INFO] ✅ Serving index.html
+[2025-07-22 17:10:12] [INFO] ✅ Serving index.html
+[2025-07-22 17:11:06] [INFO] ✅ Serving index.html
+[2025-07-22 17:11:12] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:11:18] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:15:57] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 17:16:48] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 17:17:04] [INFO] ✅ Serving index.html
+[2025-07-22 17:17:09] [ERROR] ❌ Errore Anomalib:
+Traceback (most recent call last):
+  File "/home/umberto/Desktop/visioncheck/backend/app.py", line 82, in anomalib_snapshot
+    prediction_path = run_anomalib(image_path)
+  File "/home/umberto/Desktop/visioncheck/backend/anomalib_runner.py", line 218, in run_anomalib
+    overlay = color_anomaly_map(anomaly_map_resized, image_cv)
+  File "/home/umberto/Desktop/visioncheck/backend/anomalib_runner.py", line 144, in color_anomaly_map
+    fade_region = np.linspace(0, 1, fade_zone)
+  File "/home/umberto/.local/lib/python3.10/site-packages/numpy/_core/function_base.py", line 121, in linspace
+    num = operator.index(num)
+TypeError: only integer scalar arrays can be converted to a scalar index
+[2025-07-22 17:19:21] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 17:19:22] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:19:31] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:21:32] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 17:21:35] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:21:41] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:21:44] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:23:34] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 17:23:34] [INFO] ✅ Serving index.html
+[2025-07-22 17:23:40] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:23:45] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:25:01] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 17:25:01] [INFO] ✅ Serving index.html
+[2025-07-22 17:25:04] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:26:05] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 17:26:05] [INFO] ✅ Serving index.html
+[2025-07-22 17:26:08] [ERROR] ❌ Errore Anomalib:
+Traceback (most recent call last):
+  File "/home/umberto/Desktop/visioncheck/backend/app.py", line 82, in anomalib_snapshot
+    prediction_path = run_anomalib(image_path)
+  File "/home/umberto/Desktop/visioncheck/backend/anomalib_runner.py", line 217, in run_anomalib
+    overlay = cv2.addWeighted(image_cv, 0.6, colored_map, 0.4, 0)
+cv2.error: OpenCV(4.11.0) /io/opencv/modules/core/src/arithm.cpp:662: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and the same number of channels), nor 'array op scalar', nor 'scalar op array' in function 'arithm_op'
+
+[2025-07-22 17:26:44] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-07-22 17:26:49] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-07-22 17:26:54] [INFO] ✅ Serving index.html
+[2025-09-19 15:18:24] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-09-19 15:18:38] [INFO] Starting VisionCheck on port 5000 (debug=False)
+[2025-09-19 15:23:37] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-09-19 15:23:42] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-09-19 15:24:04] [INFO] ✅ Serving index.html
+[2025-09-19 15:24:13] [INFO] ✅ YOLO snapshot pronto, invio al frontend.
+[2025-09-19 15:24:25] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-09-19 15:24:34] [INFO] ✅ YOLO snapshot pronto, invio al frontend.
+[2025-09-19 15:24:44] [INFO] ✅ Anomalib snapshot pronto, invio al frontend.
+[2025-09-19 15:24:46] [INFO] ✅ SAM snapshot pronto, invio al frontend.
+[2025-09-19 15:24:48] [INFO] ✅ SAM snapshot pronto, invio al frontend.
+[2025-09-19 15:25:03] [INFO] ✅ SAM snapshot pronto, invio al frontend.
+[2025-09-19 15:25:18] [INFO] ✅ SAM snapshot pronto, invio al frontend.
+[2025-09-19 15:25:21] [INFO] ✅ SAM snapshot pronto, invio al frontend.
+[2025-09-19 15:30:04] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-09-19 15:30:12] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-09-19 15:30:12] [INFO] ✅ YOLO snapshot pronto, invio al frontend.
+[2025-09-19 15:30:15] [INFO] ✅ YOLO snapshot pronto, invio al frontend.
+[2025-09-19 15:30:17] [INFO] ✅ YOLO snapshot pronto, invio al frontend.
+[2025-09-19 15:30:19] [INFO] ✅ YOLO snapshot pronto, invio al frontend.
+[2025-09-19 16:01:16] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-09-19 16:02:34] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-09-19 16:17:51] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-09-19 16:22:20] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-09-19 16:22:26] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-09-19 16:22:30] [INFO] ✅ Serving index.html
+[2025-09-19 16:22:45] [INFO] ✅ Anteprima pronta, invio al frontend.
+[2025-09-19 16:23:02] [INFO] ♻️  Using cached preview image: 969dd5c524e74de697e6b3b8f62d2cde.jpg
+[2025-09-19 16:23:02] [INFO] ✅ YOLO snapshot pronto, invio al frontend.
+[2025-09-19 16:23:07] [INFO] ♻️  Using cached preview image: 969dd5c524e74de697e6b3b8f62d2cde.jpg
+[2025-09-19 16:23:19] [INFO] ✅ SAM snapshot pronto, invio al frontend.
+[2025-09-19 16:23:25] [INFO] ♻️  Using cached preview image: 969dd5c524e74de697e6b3b8f62d2cde.jpg
+[2025-09-19 16:23:26] [ERROR] ❌ Errore Anomalib:
+Traceback (most recent call last):
+  File "/home/umberto/Desktop/visiofy/visioncheck/backend/app.py", line 126, in anomalib_snapshot
+    prediction_path = run_anomalib(image_path)
+  File "/home/umberto/Desktop/visiofy/visioncheck/backend/anomalib_runner.py", line 170, in run_anomalib
+    model = Padim.load_from_checkpoint(
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/utilities/model_helpers.py", line 125, in wrapper
+    return self.method(cls, *args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/core/module.py", line 1611, in load_from_checkpoint
+    loaded = _load_from_checkpoint(
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/core/saving.py", line 91, in _load_from_checkpoint
+    model = _load_state(cls, checkpoint, strict=strict, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/core/saving.py", line 184, in _load_state
+    obj.on_load_checkpoint(checkpoint)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/models/components/base/anomaly_module.py", line 277, in on_load_checkpoint
+    self._transform = checkpoint["transform"]
+KeyError: 'transform'
+[2025-09-19 16:23:29] [INFO] ♻️  Using cached preview image: 969dd5c524e74de697e6b3b8f62d2cde.jpg
+[2025-09-19 16:23:30] [ERROR] ❌ Errore Anomalib:
+Traceback (most recent call last):
+  File "/home/umberto/Desktop/visiofy/visioncheck/backend/app.py", line 126, in anomalib_snapshot
+    prediction_path = run_anomalib(image_path)
+  File "/home/umberto/Desktop/visiofy/visioncheck/backend/anomalib_runner.py", line 170, in run_anomalib
+    model = Padim.load_from_checkpoint(
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/utilities/model_helpers.py", line 125, in wrapper
+    return self.method(cls, *args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/core/module.py", line 1611, in load_from_checkpoint
+    loaded = _load_from_checkpoint(
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/core/saving.py", line 91, in _load_from_checkpoint
+    model = _load_state(cls, checkpoint, strict=strict, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/lightning/pytorch/core/saving.py", line 184, in _load_state
+    obj.on_load_checkpoint(checkpoint)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/models/components/base/anomaly_module.py", line 277, in on_load_checkpoint
+    self._transform = checkpoint["transform"]
+KeyError: 'transform'
+[2025-09-19 16:29:03] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-09-19 16:29:08] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-09-19 16:29:11] [INFO] ✅ Serving index.html
+[2025-09-19 16:29:18] [INFO] ✅ Preview ready, sending to frontend.
+[2025-09-19 16:29:20] [INFO] ♻️  Using cached preview image: 1ee4bf74131a454597a7e932005b04f8.jpg
+[2025-09-19 16:29:20] [INFO] ✅ YOLO snapshot ready, sending to frontend.
+[2025-09-19 16:29:22] [INFO] ♻️  Using cached preview image: 1ee4bf74131a454597a7e932005b04f8.jpg
+[2025-09-19 16:29:29] [ERROR] ❌ Anomalib error:
+Traceback (most recent call last):
+  File "/home/umberto/Desktop/visiofy/visioncheck/backend/app.py", line 126, in anomalib_snapshot
+    prediction_path = run_anomalib(image_path)
+  File "/home/umberto/Desktop/visiofy/visioncheck/backend/anomalib_runner.py", line 241, in run_anomalib
+    output = model(input_tensor)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/models/components/base/anomaly_module.py", line 96, in forward
+    return self.model(batch)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/models/image/padim/torch_model.py", line 143, in forward
+    output = self.anomaly_map_generator(
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/models/image/padim/anomaly_map.py", line 133, in forward
+    return self.compute_anomaly_map(embedding, mean, inv_covariance, image_size=image_size)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/models/image/padim/anomaly_map.py", line 101, in compute_anomaly_map
+    score_map = self.compute_distance(
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/models/image/padim/anomaly_map.py", line 46, in compute_distance
+    delta = (embedding - mean).permute(2, 0, 1)
+RuntimeError: The size of tensor a (16384) must match the size of tensor b (4096) at non-singleton dimension 2
+[2025-09-19 16:29:35] [INFO] ♻️  Using cached preview image: 1ee4bf74131a454597a7e932005b04f8.jpg
+[2025-09-19 16:29:46] [INFO] ✅ SAM snapshot ready, sending to frontend.
+[2025-09-19 16:31:58] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-09-19 16:32:03] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-09-19 16:32:03] [INFO] ✅ Serving index.html
+[2025-09-19 16:32:07] [INFO] ✅ Preview ready, sending to frontend.
+[2025-09-19 16:32:09] [INFO] ♻️  Using cached preview image: 14eda4b3b8b840f28d9f594280784598.jpg
+[2025-09-19 16:32:11] [ERROR] ❌ Anomalib error:
+Traceback (most recent call last):
+  File "/home/umberto/Desktop/visiofy/visioncheck/backend/app.py", line 126, in anomalib_snapshot
+    prediction_path = run_anomalib(image_path)
+  File "/home/umberto/Desktop/visiofy/visioncheck/backend/anomalib_runner.py", line 241, in run_anomalib
+    output = model(input_tensor)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/models/components/base/anomaly_module.py", line 96, in forward
+    return self.model(batch)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/models/image/padim/torch_model.py", line 143, in forward
+    output = self.anomaly_map_generator(
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/models/image/padim/anomaly_map.py", line 133, in forward
+    return self.compute_anomaly_map(embedding, mean, inv_covariance, image_size=image_size)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/models/image/padim/anomaly_map.py", line 101, in compute_anomaly_map
+    score_map = self.compute_distance(
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/models/image/padim/anomaly_map.py", line 46, in compute_distance
+    delta = (embedding - mean).permute(2, 0, 1)
+RuntimeError: The size of tensor a (16384) must match the size of tensor b (4096) at non-singleton dimension 2
+[2025-09-19 16:38:33] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-09-19 16:38:38] [INFO] Starting VisionCheck on port 5000 (debug=True)
+[2025-09-19 16:38:38] [INFO] ✅ Serving index.html
+[2025-09-19 16:38:41] [INFO] ✅ Preview ready, sending to frontend.
+[2025-09-19 16:38:43] [INFO] ♻️  Using cached preview image: 14e24140e86648199286e4647f4aee8b.jpg
+[2025-09-19 16:38:43] [INFO] ✅ YOLO snapshot ready, sending to frontend.
+[2025-09-19 16:38:44] [INFO] ♻️  Using cached preview image: 14e24140e86648199286e4647f4aee8b.jpg
+[2025-09-19 16:38:56] [INFO] ✅ SAM snapshot ready, sending to frontend.
+[2025-09-19 16:39:13] [INFO] ♻️  Using cached preview image: 14e24140e86648199286e4647f4aee8b.jpg
+[2025-09-19 16:39:15] [ERROR] ❌ Anomalib error:
+Traceback (most recent call last):
+  File "/home/umberto/Desktop/visiofy/visioncheck/backend/app.py", line 126, in anomalib_snapshot
+    prediction_path = run_anomalib(image_path)
+  File "/home/umberto/Desktop/visiofy/visioncheck/backend/anomalib_runner.py", line 241, in run_anomalib
+    output = model(input_tensor)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/models/components/base/anomaly_module.py", line 96, in forward
+    return self.model(batch)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/models/image/padim/torch_model.py", line 143, in forward
+    output = self.anomaly_map_generator(
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/models/image/padim/anomaly_map.py", line 133, in forward
+    return self.compute_anomaly_map(embedding, mean, inv_covariance, image_size=image_size)
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/models/image/padim/anomaly_map.py", line 101, in compute_anomaly_map
+    score_map = self.compute_distance(
+  File "/home/umberto/miniconda3/envs/visioncheck/lib/python3.10/site-packages/anomalib/models/image/padim/anomaly_map.py", line 46, in compute_distance
+    delta = (embedding - mean).permute(2, 0, 1)
+RuntimeError: The size of tensor a (16384) must match the size of tensor b (4096) at non-singleton dimension 2

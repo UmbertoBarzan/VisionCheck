@@ -1,0 +1,276 @@
+[2025-07-21 17:13:26] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-21 17:13:26] [INFO] Initializing Padim model.
+[2025-07-21 17:13:28] [INFO] Modello 'Padim' istanziato con parametri: {}
+[2025-07-21 17:16:26] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-21 17:16:26] [INFO] Initializing Padim model.
+[2025-07-21 17:16:26] [INFO] Modello 'Padim' istanziato con parametri: {}
+[2025-07-21 17:17:15] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-21 17:17:15] [INFO] Initializing Padim model.
+[2025-07-21 17:17:16] [INFO] Modello 'Padim' istanziato con parametri: {}
+[2025-07-21 17:17:16] [INFO] No normal test images found. Sampling from training set using ratio of 0.20
+[2025-07-21 17:17:16] [INFO] Dataset 'hazelnut_toy' pronto con 28 train e 6 test.
+[2025-07-21 17:17:16] [INFO] Inizio training del modello 'padim_512' su dataset 'hazelnut_toy'
+[2025-07-21 17:18:50] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-21 17:18:50] [INFO] Initializing Padim model.
+[2025-07-21 17:18:50] [INFO] Modello 'Padim' istanziato con parametri: {}
+[2025-07-21 17:18:50] [INFO] No normal test images found. Sampling from training set using ratio of 0.20
+[2025-07-21 17:18:50] [INFO] Dataset 'hazelnut_toy' pronto con 28 train e 6 test.
+[2025-07-21 17:18:50] [INFO] Inizio training del modello 'padim_512' su dataset 'hazelnut_toy'
+[2025-07-21 17:18:50] [INFO] No normal test images found. Sampling from training set using ratio of 0.20
+[2025-07-21 17:18:51] [INFO] Aggregating the embedding extracted from the training set.
+[2025-07-21 17:18:51] [INFO] Fitting a Gaussian to the embedding collected from the training set.
+[2025-07-21 17:18:53] [INFO] Training took  3.25 seconds
+[2025-07-21 17:18:53] [INFO] ✅ Addestramento completato.
+[2025-07-22 10:38:00] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 10:38:00] [INFO] Initializing Padim model.
+[2025-07-22 10:38:00] [INFO] Modello 'Padim' istanziato con parametri: {}
+[2025-07-22 10:38:00] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 10:38:00] [INFO] No normal test images found. Sampling from training set using ratio of 0.20
+[2025-07-22 10:38:00] [INFO] Dataset 'hazelnut_toy' pronto con 28 train e 6 test.
+[2025-07-22 10:40:38] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 10:40:38] [INFO] Initializing Padim model.
+[2025-07-22 10:40:38] [INFO] Modello 'Padim' istanziato con parametri: {}
+[2025-07-22 10:40:38] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 10:40:38] [INFO] No normal test images found. Sampling from training set using ratio of 0.20
+[2025-07-22 10:40:38] [INFO] Dataset 'hazelnut_toy' pronto con 28 train e 6 test.
+[2025-07-22 10:43:44] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 10:43:44] [INFO] Initializing Padim model.
+[2025-07-22 10:43:45] [INFO] Modello 'Padim' istanziato con parametri: {}
+[2025-07-22 10:43:45] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 10:43:45] [INFO] No normal test images found. Sampling from training set using ratio of 0.20
+[2025-07-22 10:43:45] [INFO] Dataset 'hazelnut_toy' pronto con 28 train e 6 test.
+[2025-07-22 10:49:28] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 10:49:28] [INFO] Initializing Padim model.
+[2025-07-22 10:49:28] [INFO] Modello 'Padim' istanziato con parametri: {}
+[2025-07-22 10:49:28] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 10:49:28] [INFO] No normal test images found. Sampling from training set using ratio of 0.20
+[2025-07-22 10:49:28] [INFO] Dataset 'hazelnut_toy' pronto con 28 train e 6 test.
+[2025-07-22 12:12:48] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 12:12:48] [INFO] Initializing Padim model.
+[2025-07-22 12:12:48] [INFO] Modello 'Padim' istanziato con parametri: {}
+[2025-07-22 12:12:48] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 12:25:12] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 12:25:12] [INFO] Initializing Padim model.
+[2025-07-22 12:25:12] [INFO] Modello 'Padim' istanziato con parametri: {}
+[2025-07-22 12:25:12] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 12:25:13] [INFO] Initializing Padim model.
+[2025-07-22 12:25:13] [WARNING] ckpt_path is not provided. Model weights will not be loaded.
+[2025-07-22 12:30:34] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 12:30:34] [INFO] Initializing Padim model.
+[2025-07-22 12:30:35] [INFO] Modello 'Padim' istanziato con parametri: {}
+[2025-07-22 12:30:35] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 12:30:35] [INFO] Initializing Padim model.
+[2025-07-22 12:30:35] [WARNING] ckpt_path is not provided. Model weights will not be loaded.
+[2025-07-22 12:33:31] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 12:33:31] [INFO] Initializing Padim model.
+[2025-07-22 12:33:32] [INFO] Modello 'Padim' istanziato con parametri: {}
+[2025-07-22 12:33:32] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 12:33:32] [INFO] Initializing Padim model.
+[2025-07-22 12:33:32] [WARNING] ckpt_path is not provided. Model weights will not be loaded.
+[2025-07-22 12:43:16] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 12:43:16] [INFO] Initializing Padim model.
+[2025-07-22 12:43:17] [INFO] Modello 'Padim' istanziato con parametri: {}
+[2025-07-22 12:43:17] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 14:37:06] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 14:37:06] [INFO] Initializing Padim model.
+[2025-07-22 14:37:07] [INFO] Modello 'Padim' istanziato con parametri: {}
+[2025-07-22 14:37:07] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 14:41:30] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 14:42:20] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 14:42:21] [INFO] Initializing Padim model.
+[2025-07-22 14:42:21] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 14:45:53] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 14:45:53] [INFO] Initializing Padim model.
+[2025-07-22 14:45:53] [INFO] Initializing Padim model.
+[2025-07-22 14:45:54] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 15:45:34] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 15:45:34] [INFO] No normal test images found. Sampling from training set using ratio of 0.20
+[2025-07-22 15:45:34] [INFO] Dataset 'hazelnut_toy' pronto con 28 train e 6 test.
+[2025-07-22 15:45:34] [INFO] Initializing Padim model.
+[2025-07-22 15:45:34] [INFO] Modello 'Padim' istanziato con parametri: {}
+[2025-07-22 15:45:34] [INFO] 🚀 Inizio training: padim_512
+[2025-07-22 15:45:34] [INFO] No normal test images found. Sampling from training set using ratio of 0.20
+[2025-07-22 15:45:36] [INFO] Aggregating the embedding extracted from the training set.
+[2025-07-22 15:45:36] [INFO] Fitting a Gaussian to the embedding collected from the training set.
+[2025-07-22 15:45:39] [INFO] Training took  4.18 seconds
+[2025-07-22 15:45:39] [INFO] ✅ Training completato: padim_512
+[2025-07-22 16:03:37] [INFO] Initializing Padim model.
+[2025-07-22 16:05:08] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 16:05:08] [INFO] No normal test images found. Sampling from training set using ratio of 0.20
+[2025-07-22 16:05:08] [INFO] Dataset 'hazelnut_toy' pronto con 28 train e 6 test.
+[2025-07-22 16:05:08] [INFO] Initializing Padim model.
+[2025-07-22 16:05:08] [INFO] Modello 'Padim' istanziato con parametri: {}
+[2025-07-22 16:05:08] [INFO] 🚀 Inizio training: padim_512
+[2025-07-22 16:05:08] [INFO] No normal test images found. Sampling from training set using ratio of 0.20
+[2025-07-22 16:05:10] [INFO] Aggregating the embedding extracted from the training set.
+[2025-07-22 16:05:10] [INFO] Fitting a Gaussian to the embedding collected from the training set.
+[2025-07-22 16:05:12] [INFO] Training took  4.10 seconds
+[2025-07-22 16:05:12] [INFO] ✅ Training completato: padim_512
+[2025-07-22 16:05:33] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 16:05:33] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 16:05:33] [INFO] Initializing Padim model.
+[2025-07-22 16:05:34] [INFO] ✅ Inference salvata: padim_512_45168da251d04b09bc2371e7936d0a8c.jpg
+[2025-07-22 16:20:25] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 16:20:25] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 16:20:25] [INFO] Initializing Padim model.
+[2025-07-22 16:20:26] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_6c1034ff1fd248b8b12bdbbdf93139db.jpg
+[2025-07-22 16:24:27] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 16:24:27] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 16:24:27] [INFO] Initializing Padim model.
+[2025-07-22 16:24:28] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_26b56ab334c3413a972cb96fcd2c00bf.jpg
+[2025-07-22 16:28:06] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 16:28:06] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 16:28:06] [INFO] Initializing Padim model.
+[2025-07-22 16:28:07] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_16f9dfb039ca4bff811e0e60442d39ae.jpg
+[2025-07-22 16:34:18] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 16:34:18] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 16:34:18] [INFO] Initializing Padim model.
+[2025-07-22 16:34:18] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_6e1ac4778e32429bb3ef05e4a1e8f5b0.jpg
+[2025-07-22 16:34:47] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 16:34:47] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 16:34:47] [INFO] Initializing Padim model.
+[2025-07-22 16:34:48] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_1a91514942e74cb888ce64897967c7b1.jpg
+[2025-07-22 16:35:32] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 16:35:32] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 16:35:32] [INFO] Initializing Padim model.
+[2025-07-22 16:35:32] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_00b80dc9f7fe4f2f8498e76cc9b0cf14.jpg
+[2025-07-22 16:41:55] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 16:41:55] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 16:41:55] [INFO] Initializing Padim model.
+[2025-07-22 16:41:56] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_af13fa0ab0a44eb09b04d3e76d08f3c9.jpg
+[2025-07-22 16:42:33] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 16:42:33] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 16:42:33] [INFO] Initializing Padim model.
+[2025-07-22 16:42:33] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_7d5f00bd8c2346f8b01555b28befb72b.jpg
+[2025-07-22 17:00:20] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:00:20] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:00:20] [INFO] Initializing Padim model.
+[2025-07-22 17:00:47] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:00:47] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:00:47] [INFO] Initializing Padim model.
+[2025-07-22 17:00:48] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_8be1c76971a54337ace6ccecf98f3184.jpg
+[2025-07-22 17:01:00] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:01:00] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:01:00] [INFO] Initializing Padim model.
+[2025-07-22 17:01:01] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_fd6ad4374993477db2735f2f21c0a8fe.jpg
+[2025-07-22 17:03:53] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:03:53] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:03:53] [INFO] Initializing Padim model.
+[2025-07-22 17:03:54] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_b1df227268b3492b9a095554b2048a1b.jpg
+[2025-07-22 17:04:00] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:04:00] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:04:00] [INFO] Initializing Padim model.
+[2025-07-22 17:04:00] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_0f0d06ba08b3432f852a2cb05695ce55.jpg
+[2025-07-22 17:04:02] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:04:02] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:04:02] [INFO] Initializing Padim model.
+[2025-07-22 17:04:03] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_1d7836b78a504a009ce1a418711cc227.jpg
+[2025-07-22 17:05:47] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:05:47] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:05:47] [INFO] Initializing Padim model.
+[2025-07-22 17:05:48] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_bc7413f07a384f2eb3e03cf6ff0c9c3c.jpg
+[2025-07-22 17:07:50] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:07:50] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:07:51] [INFO] Initializing Padim model.
+[2025-07-22 17:07:51] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_39253b0e52ea45ecb706ab56ee497e1f.jpg
+[2025-07-22 17:07:58] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:07:58] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:07:59] [INFO] Initializing Padim model.
+[2025-07-22 17:07:59] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_34e711973af744ec9a2d2fa66eef568c.jpg
+[2025-07-22 17:08:02] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:08:02] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:08:02] [INFO] Initializing Padim model.
+[2025-07-22 17:08:03] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_76b8b801212744bb92e9a95f995502d7.jpg
+[2025-07-22 17:08:06] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:08:06] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:08:06] [INFO] Initializing Padim model.
+[2025-07-22 17:08:06] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_ea9fc224cbff4974962bb50c5a3f3ef5.jpg
+[2025-07-22 17:08:08] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:08:08] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:08:08] [INFO] Initializing Padim model.
+[2025-07-22 17:08:08] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_424f670da7864c8fa09c366ea1ce50b3.jpg
+[2025-07-22 17:11:11] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:11:11] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:11:11] [INFO] Initializing Padim model.
+[2025-07-22 17:11:12] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_481b441c254c46bfb445d7f486afec6e.jpg
+[2025-07-22 17:11:17] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:11:17] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:11:17] [INFO] Initializing Padim model.
+[2025-07-22 17:11:18] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_beee67a800ed47b38e58aca213ce5ba8.jpg
+[2025-07-22 17:17:08] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:17:08] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:17:08] [INFO] Initializing Padim model.
+[2025-07-22 17:19:21] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:19:21] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:19:21] [INFO] Initializing Padim model.
+[2025-07-22 17:19:22] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_affa459d43104b2d85a2d742cde355fa.jpg
+[2025-07-22 17:19:30] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:19:30] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:19:30] [INFO] Initializing Padim model.
+[2025-07-22 17:19:31] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_c2a33a4de0ac462bb63a9a7e6ff6c981.jpg
+[2025-07-22 17:21:34] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:21:34] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:21:34] [INFO] Initializing Padim model.
+[2025-07-22 17:21:35] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_7134fe81257a48df8affa7cbab02a202.jpg
+[2025-07-22 17:21:41] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:21:41] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:21:41] [INFO] Initializing Padim model.
+[2025-07-22 17:21:41] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_037e792f441045a9823bba19144faadd.jpg
+[2025-07-22 17:21:44] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:21:44] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:21:44] [INFO] Initializing Padim model.
+[2025-07-22 17:21:44] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_4d9d93a28a10418d9536cae8c15c370e.jpg
+[2025-07-22 17:23:39] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:23:39] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:23:39] [INFO] Initializing Padim model.
+[2025-07-22 17:23:40] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_191a7fe4a9ed4ed7a764ad720c4f9f6b.jpg
+[2025-07-22 17:23:44] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:23:44] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:23:44] [INFO] Initializing Padim model.
+[2025-07-22 17:23:45] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_907f2e83290443c8bc7544353ee4a493.jpg
+[2025-07-22 17:25:03] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:25:03] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:25:04] [INFO] Initializing Padim model.
+[2025-07-22 17:25:04] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_be2bb48f6fbf4cd6bf9b36cb792494b7.jpg
+[2025-07-22 17:26:07] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:26:07] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:26:07] [INFO] Initializing Padim model.
+[2025-07-22 17:26:49] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-07-22 17:26:49] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-07-22 17:26:49] [INFO] Initializing Padim model.
+[2025-07-22 17:26:49] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visioncheck/data/anomalib/anomalib_padim_405bbc5c7efb4946ad84008c9bc7046e.jpg
+[2025-09-19 15:24:24] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-09-19 15:24:24] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-09-19 15:24:24] [INFO] Initializing Padim model.
+[2025-09-19 15:24:25] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visiofy/visioncheck/data/anomalib/anomalib_padim_e577e75be94d467f937e8d3bb3b55c68.jpg
+[2025-09-19 15:24:43] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-09-19 15:24:43] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-09-19 15:24:43] [INFO] Initializing Padim model.
+[2025-09-19 15:24:44] [INFO] ✅ Output Padim salvato in: /home/umberto/Desktop/visiofy/visioncheck/data/anomalib/anomalib_padim_782e744672d94939b3f565148ff04b83.jpg
+[2025-09-19 16:23:25] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-09-19 16:23:25] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-09-19 16:23:25] [INFO] Initializing Padim model.
+[2025-09-19 16:23:29] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-09-19 16:23:29] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-09-19 16:23:29] [INFO] Initializing Padim model.
+[2025-09-19 16:29:22] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-09-19 16:29:22] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-09-19 16:29:23] [INFO] Initializing Padim model.
+[2025-09-19 16:29:28] [WARNING] ⚠️ Checkpoint for padim_512 is missing 'transform'. Falling back to manual state_dict load.
+[2025-09-19 16:29:28] [INFO] Initializing Padim model.
+[2025-09-19 16:29:29] [WARNING] ⚠️ Unexpected keys while loading padim_512: ['post_processor._image_threshold', 'post_processor._pixel_threshold', 'post_processor.image_min', 'post_processor.image_max', 'post_processor.pixel_min', 'post_processor.pixel_max']
+[2025-09-19 16:29:29] [INFO] ✅ State_dict loaded for padim_512
+[2025-09-19 16:32:09] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-09-19 16:32:09] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-09-19 16:32:10] [INFO] Initializing Padim model.
+[2025-09-19 16:32:10] [WARNING] ⚠️ Checkpoint for padim_512 is missing 'transform'. Falling back to manual state_dict load.
+[2025-09-19 16:32:10] [INFO] Initializing Padim model.
+[2025-09-19 16:32:11] [WARNING] ⚠️ Unexpected keys while loading padim_512: ['post_processor._image_threshold', 'post_processor._pixel_threshold', 'post_processor.image_min', 'post_processor.image_max', 'post_processor.pixel_min', 'post_processor.pixel_max']
+[2025-09-19 16:32:11] [INFO] ✅ State_dict loaded for padim_512
+[2025-09-19 16:39:13] [INFO] Modelli Anomalib attivi: ['padim_512']
+[2025-09-19 16:39:13] [INFO] Ultimo checkpoint trovato: results/Padim/hazelnut_toy/latest/weights/lightning/model.ckpt
+[2025-09-19 16:39:14] [INFO] Initializing Padim model.
+[2025-09-19 16:39:14] [WARNING] ⚠️ Checkpoint for padim_512 is missing 'transform'. Falling back to manual state_dict load.
+[2025-09-19 16:39:14] [INFO] Initializing Padim model.
+[2025-09-19 16:39:15] [WARNING] ⚠️ Unexpected keys while loading padim_512: ['post_processor._image_threshold', 'post_processor._pixel_threshold', 'post_processor.image_min', 'post_processor.image_max', 'post_processor.pixel_min', 'post_processor.pixel_max']
+[2025-09-19 16:39:15] [INFO] ✅ State_dict loaded for padim_512

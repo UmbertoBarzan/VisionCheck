@@ -1,0 +1,13 @@
+Flask>=3.0,<4
+python-dotenv>=1.0,<2
+opencv-python>=4.9,<5
+ultralytics>=8.3,<9
+segment-anything>=1.0,<2
+anomalib>=1.0,<1.2
+torch>=2.2,<3
+torchvision>=0.17,<1
+numpy>=1.24,<2.0
+pillow>=10,<12
+matplotlib>=3.8,<4
+PyYAML>=6.0,<7
+imgaug>=0.4,<1

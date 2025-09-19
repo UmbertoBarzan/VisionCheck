@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+  device_watcher:
+    image: visioncheck
+    container_name: device_watcher
+    privileged: true
+    restart: unless-stopped
+    devices:
+      - "/dev/bus/usb:/dev/bus/usb"
+    volumes:
+      - "/dev/bus/usb:/dev/bus/usb"
+      - "/dev/shm/visioncheck:/shared"
+    command: python3 device_watcher.py

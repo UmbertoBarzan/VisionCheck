@@ -1,0 +1,191 @@
+[2025-07-18 18:01:20] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-18 18:01:22] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-18 18:01:31] [ERROR] SAM non è stato inizializzato.
+[2025-07-18 18:01:35] [ERROR] SAM non è stato inizializzato.
+[2025-07-21 09:53:15] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-21 09:53:17] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-21 09:56:31] [ERROR] SAM non è stato inizializzato.
+[2025-07-21 10:01:55] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-21 10:02:00] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-21 10:02:03] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-21 10:05:06] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-21 10:08:34] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-21 10:08:50] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-21 10:10:59] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-21 10:11:03] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-21 10:14:26] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-21 10:14:34] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-21 10:14:36] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-21 10:15:57] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-21 10:16:23] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-21 10:17:21] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-21 10:20:38] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-21 10:20:42] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-21 10:23:07] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-21 10:23:07] [ERROR] SAM non è stato inizializzato.
+[2025-07-21 10:23:24] [ERROR] ❌ Failed to load SAM model: [Errno 2] No such file or directory: '/home/umberto/Desktop/visioncheck/models/sam_vit_b.pth'
+[2025-07-21 10:24:36] [ERROR] ❌ Failed to load SAM model: PytorchStreamReader failed reading zip archive: failed finding central directory
+[2025-07-21 10:25:06] [ERROR] ❌ Failed to load SAM model: PytorchStreamReader failed reading zip archive: failed finding central directory
+[2025-07-21 10:25:08] [ERROR] ❌ Failed to load SAM model: PytorchStreamReader failed reading zip archive: failed finding central directory
+[2025-07-21 10:29:47] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:29:49] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:33:26] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:33:29] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:33:54] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:33:56] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:34:12] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:34:14] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:34:38] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:34:40] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:35:30] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:35:32] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:35:33] [WARNING] asdasd
+[2025-07-21 10:35:47] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:35:49] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:35:54] [WARNING] asdasd
+[2025-07-21 10:36:10] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:36:13] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:36:13] [WARNING] asdasd
+[2025-07-21 10:36:37] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:36:39] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:36:54] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:36:56] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:36:57] [WARNING] asdasd
+[2025-07-21 10:39:19] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:39:21] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:39:27] [DEBUG] asdasd
+[2025-07-21 10:39:27] [DEBUG] Immagine caricata: 480x640 pixels
+[2025-07-21 10:41:09] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:41:12] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:41:14] [DEBUG] asdasd
+[2025-07-21 10:41:14] [DEBUG] Immagine caricata: 480x640 pixels
+[2025-07-21 10:48:35] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:48:37] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:48:39] [DEBUG] Sto per generare le maschere con SAM...
+[2025-07-21 10:49:07] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:49:09] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:49:12] [DEBUG] Sto per generare le maschere con SAM...
+[2025-07-21 10:53:26] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:53:28] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 10:54:01] [INFO] ✅ 19 masks generated
+[2025-07-21 10:54:01] [INFO] Salvato risultato SAM in: sam_d653c1089da94698a0757fff4aac53ed.jpg
+[2025-07-21 11:09:40] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 11:09:43] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 11:10:19] [INFO] ✅ 21 masks generated
+[2025-07-21 11:10:19] [INFO] Salvato risultato SAM in: sam_efd5868ca94e43148a04985cda209da3.jpg
+[2025-07-21 11:10:46] [INFO] ✅ SAM model loaded successfully
+[2025-07-21 17:09:25] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 10:23:00] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 10:23:47] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 10:23:52] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 10:35:53] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 10:35:58] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 10:37:54] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 10:40:28] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 10:41:02] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 10:43:22] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 10:43:32] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 10:43:37] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 10:49:21] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 10:49:57] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 10:52:10] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 10:59:24] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 11:51:13] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 12:11:26] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 12:11:31] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 12:12:16] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 12:24:06] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 12:24:49] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 12:24:54] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 12:30:13] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 12:33:10] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 12:43:00] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 12:43:05] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 14:36:54] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 14:37:01] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 14:40:17] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 14:41:12] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 14:41:18] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 14:41:24] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 14:42:16] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 14:43:59] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 14:44:07] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 14:45:18] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 14:45:42] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 14:45:47] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 14:47:01] [INFO] ✅ 15 masks generated
+[2025-07-22 14:47:01] [INFO] Salvato risultato SAM in: sam_7994de4178d1443e867b038624c0b108.jpg
+[2025-07-22 15:21:33] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 15:46:58] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 15:47:53] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 15:47:59] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 16:03:15] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 16:03:21] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 16:03:26] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 16:04:34] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 16:05:00] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 16:05:21] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 16:05:27] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 16:12:53] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 16:20:03] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 16:20:09] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 16:20:14] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 16:24:07] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 16:24:13] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 16:28:02] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 16:28:51] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 16:33:54] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 16:35:09] [INFO] ✅ 11 masks generated
+[2025-07-22 16:35:09] [INFO] Salvato risultato SAM in: sam_3436b475922142bfb789390a99205e39.jpg
+[2025-07-22 16:41:42] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 16:56:58] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 17:00:15] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 17:00:43] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 17:03:50] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 17:05:44] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 17:07:44] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 17:09:59] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 17:15:54] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 17:16:45] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 17:19:18] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 17:21:30] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 17:23:31] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 17:24:58] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 17:26:02] [INFO] ✅ SAM model loaded successfully
+[2025-07-22 17:26:41] [INFO] ✅ SAM model loaded successfully
+[2025-09-19 15:18:19] [INFO] ✅ SAM model loaded successfully
+[2025-09-19 15:18:35] [INFO] ✅ SAM model loaded successfully
+[2025-09-19 15:23:33] [INFO] ✅ SAM model loaded successfully
+[2025-09-19 15:23:39] [INFO] ✅ SAM model loaded successfully
+[2025-09-19 15:24:46] [INFO] ✅ 7 masks generated
+[2025-09-19 15:24:46] [INFO] Salvato risultato SAM in: sam_a1bdc811ee30430da29c4dcb8b79a9b1.jpg
+[2025-09-19 15:24:48] [INFO] ✅ 1 masks generated
+[2025-09-19 15:24:48] [INFO] Salvato risultato SAM in: sam_0a0641e1aeff4d3583197e4cdb8c460e.jpg
+[2025-09-19 15:25:02] [INFO] ✅ 9 masks generated
+[2025-09-19 15:25:03] [INFO] Salvato risultato SAM in: sam_cb7310d038154ff2a7ff09964ae5b52f.jpg
+[2025-09-19 15:25:18] [INFO] ✅ 7 masks generated
+[2025-09-19 15:25:18] [INFO] Salvato risultato SAM in: sam_5b9d09f5dc17488eb32e58c5e334ce32.jpg
+[2025-09-19 15:25:21] [INFO] ✅ 6 masks generated
+[2025-09-19 15:25:21] [INFO] Salvato risultato SAM in: sam_4ba5ac5cb3244392a8b2fa4b00be4f33.jpg
+[2025-09-19 15:30:01] [INFO] ✅ SAM model loaded successfully
+[2025-09-19 15:30:09] [INFO] ✅ SAM model loaded successfully
+[2025-09-19 15:50:18] [INFO] ✅ SAM model loaded successfully
+[2025-09-19 15:57:08] [INFO] ✅ SAM model loaded successfully
+[2025-09-19 15:59:26] [INFO] ✅ SAM model loaded successfully
+[2025-09-19 16:01:13] [INFO] ✅ SAM model loaded successfully
+[2025-09-19 16:02:31] [INFO] ✅ SAM model loaded successfully
+[2025-09-19 16:17:48] [INFO] ✅ SAM model loaded successfully
+[2025-09-19 16:22:18] [INFO] ✅ SAM model loaded successfully
+[2025-09-19 16:22:23] [INFO] ✅ SAM model loaded successfully
+[2025-09-19 16:23:19] [INFO] ✅ 8 masks generated
+[2025-09-19 16:23:19] [INFO] Salvato risultato SAM in: sam_679c3d6e9c8146529fe47c3e61bff9dc.jpg
+[2025-09-19 16:29:00] [INFO] ✅ SAM model loaded successfully
+[2025-09-19 16:29:05] [INFO] ✅ SAM model loaded successfully
+[2025-09-19 16:29:46] [INFO] ✅ 11 masks generated
+[2025-09-19 16:29:46] [INFO] Salvato risultato SAM in: sam_5093ebad2a384f268c37c2dac7cd971f.jpg
+[2025-09-19 16:31:55] [INFO] ✅ SAM model loaded successfully
+[2025-09-19 16:32:00] [INFO] ✅ SAM model loaded successfully
+[2025-09-19 16:38:29] [INFO] ✅ SAM model loaded successfully
+[2025-09-19 16:38:35] [INFO] ✅ SAM model loaded successfully
+[2025-09-19 16:38:56] [INFO] ✅ 5 masks generated
+[2025-09-19 16:38:56] [INFO] Salvato risultato SAM in: sam_8941478afb8545aabdcb16afaf17701f.jpg
