@@ -196,7 +196,41 @@ def color_anomaly_map(anomaly_map: np.ndarray, image: np.ndarray | None = None) 
 
     # Restituisce l'overlay finale
     return overlay
-    
+
+
+def _extract_anomaly_tensor(model_output) -> torch.Tensor | None:
+    """Estrae un tensor dall'output del modello Anomalib."""
+
+    if isinstance(model_output, torch.Tensor):
+        tensor = model_output
+    elif isinstance(model_output, dict):
+        if "anomaly_map" in model_output:
+            tensor = model_output["anomaly_map"]
+        elif "anomaly_maps" in model_output:
+            tensor = model_output["anomaly_maps"]
+        else:
+            tensor = None
+    elif hasattr(model_output, "anomaly_map"):
+        tensor = getattr(model_output, "anomaly_map")
+    else:
+        tensor = None
+
+    if tensor is None:
+        return None
+
+    if not isinstance(tensor, torch.Tensor):
+        try:
+            tensor = torch.as_tensor(tensor)
+        except Exception:
+            return None
+
+    if tensor.ndim == 4:
+        tensor = tensor[:, 0]
+    elif tensor.ndim == 3 and tensor.shape[1] == 1:
+        tensor = tensor[:, 0]
+
+    return tensor
+
 def run_anomalib(image_path: Path) -> Path | None:
     models = load_anomalib_models_config(CONFIGS_DIR / "anomalib_models.yaml")
     if not models:
@@ -237,11 +271,21 @@ def run_anomalib(image_path: Path) -> Path | None:
         ])
         input_tensor = transform(image_pil).unsqueeze(0)
 
-        with torch.no_grad():
-            output = model(input_tensor)
+        device = next(model.parameters()).device
+        input_tensor = input_tensor.to(device)
 
-        # Anomaly map
-        anomaly_map = (output.anomaly_map.cpu().squeeze().numpy() * 255).astype(np.uint8)
+        with torch.no_grad():
+            if hasattr(model, "model"):
+                output = model.model(input_tensor)
+            else:
+                output = model(input_tensor)
+
+        anomaly_tensor = _extract_anomaly_tensor(output)
+        if anomaly_tensor is None:
+            logger.error("❌ Output del modello privo di anomaly map utilizzabile.")
+            continue
+
+        anomaly_map = (anomaly_tensor.cpu().squeeze().numpy() * 255).astype(np.uint8)
         anomaly_map_resized = cv2.resize(anomaly_map, (image_cv.shape[1], image_cv.shape[0]))
         
         # heatmap_color = cv2.applyColorMap(anomaly_map_resized, cv2.COLORMAP_JET)
