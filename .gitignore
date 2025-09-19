@@ -1,0 +1,11 @@
+# Pesanti
+results/
+backend/models/
+*.ckpt
+*.pth
+camere-docker/ids/sdk/
+*.deb
+data/
+runs/
+__pycache__/
+*.pyc
